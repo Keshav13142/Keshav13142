@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular ,Spring Boot ,Spring Security ,JWT Authentication, Spring JPA**
 
-- 👨‍💻 All of my projects are available at [github.com/keshav13142](github.com/keshav13142)
+- 👨‍💻 All of my projects are available <a href="https://github.com/keshav13142" target="_blank">here</a>
 
 - 📫 How to reach me **s.keshav13142@gmail.com**
 
