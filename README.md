@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav S</h1>
 <h3 align="center">An aspiring Full Stack developer from India</h3>
 
-- 🔭 I’m currently a 3rd year student of Computer Science in **R.M.K College of Engineering and technology**
-
-- 🌱 I’m currently learning **Angular ,Spring Boot ,Spring Security ,JWT Authentication, Spring JPA**
+- 🌱 I’m currently learning **DSA , DevOps, Web Development**
 
 - 👨‍💻 All of my projects are available <a href="https://github.com/Keshav13142?tab=repositories" target="_blank">here</a>
 
