@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **s.keshav13142@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/qatyzz](https://rb.gy/qatyzz)
+<!-- - 📄 Know about my experiences [https://rb.gy/qatyzz](https://rb.gy/qatyzz) -->
 
 - ⚡ Fun fact **I like Anime 🤖**
 
