@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshav S</h1>
-<h3 align="center">An aspiring Full Stack developer from India</h3>
+<!-- <h3 align="center">An aspiring Full Stack developer from India</h3> -->
 
 - 🌱 I’m currently learning **DSA , DevOps, Web Development**
 
