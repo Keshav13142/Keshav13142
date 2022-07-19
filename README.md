@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keshav S</h1>
 <!-- <h3 align="center">An aspiring Full Stack developer from India</h3> -->
 
-- 🌱 I’m currently learning **DSA , DevOps, Web Development**
+- 🌱 I’m currently exploring **DSA , DevOps, Web Development**
 
 - 👨‍💻 All of my projects are available <a href="https://github.com/Keshav13142?tab=repositories" target="_blank">here</a>
 
-- 📫 How to reach me **s.keshav13142@gmail.com**
+- 📫 Reach me **s.keshav13142@gmail.com** 
 
 <!-- - 📄 Know about my experiences [https://rb.gy/qatyzz](https://rb.gy/qatyzz) -->
 
