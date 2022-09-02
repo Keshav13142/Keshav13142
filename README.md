@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav S</h1>
 <!-- <h3 align="center">An aspiring Full Stack developer from India</h3> -->
 
-- 🌱 I’m currently practicing **Web Development**
-
-- 🚀 Also interested in **DevOps**
+- 🚀 Interested in **Web Development** and **DevOps**
 
 - 👨‍💻 All of my projects are available <a href="https://github.com/Keshav13142?tab=repositories"
     target="_blank">here</a>
