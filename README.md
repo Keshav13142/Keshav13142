@@ -11,5 +11,5 @@
 - **Frontend** : `React`, `Angular`, `HTML`, `CSS`, `Javascript`
 - **Backend**  : `NodeJs`, `Express`, `Spring Boot`
 - **Mobile** : `React-native`
-- **Databases** : `MongoDb`, _`MySQL`
+- **Databases** : `MongoDb`, `MySQL`
 - **Others** : `Git`, `Bash-scripting (basics)`
