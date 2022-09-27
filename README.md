@@ -8,8 +8,8 @@
 
 ## Things I've worked with :
 
-- **Frontend** : _`React`_, _`Angular`_, _`HTML`_, _`CSS`_, _`Javascript`_
-- **Backend**  : _`NodeJs`_, _`Express`_, _`Spring Boot`_
-- **Mobile** : _`React-native`_
-- **Databases** : _`MongoDb`_, _`MySQL`_
-- **Others** : _`Git`_, _`Bash-scripting (basics)`_
+- **Frontend** : `React`, `Angular`, `HTML`, `CSS`, `Javascript`
+- **Backend**  : `NodeJs`, `Express`, `Spring Boot`
+- **Mobile** : `React-native`
+- **Databases** : `MongoDb`, _`MySQL`
+- **Others** : `Git`, `Bash-scripting (basics)`
