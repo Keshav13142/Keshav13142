@@ -9,7 +9,7 @@
 ## Things I've worked with :
 
 - **Frontend** : `React`, `Angular`, `HTML`, `CSS`, `Javascript`
-- **Backend**  : `NodeJs`, `Express`, `Spring Boot`
+- **Backend**  : `NodeJs`, `Express`
 - **Mobile** : `React-native`
 - **Databases** : `MongoDb`, `MySQL`
 - **Others** : `Git`, `Bash-scripting (basics)`
