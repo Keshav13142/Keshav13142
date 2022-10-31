@@ -13,3 +13,12 @@
 - **Mobile** : `React-native`
 - **Databases** : `MongoDb`, `MySQL`
 - **Others** : `Git`, `Bash and Powershell scripting (basics)`
+
+<!--- STATS --->
+<div align='center'>
+    
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keshav13142&theme=github_dark)
+    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav13142&layout=compact&theme=dark)
+    
+</div>
