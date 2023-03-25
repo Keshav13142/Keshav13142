@@ -8,7 +8,7 @@
 
 ## Things I've worked with :
 
-- **Frontend** : `React`, `Angular`, `HTML`, `CSS`, `Javascript`
+- **Frontend** : `React`, `NextJs`, `HTML`, `CSS`, `Javascript`
 - **Backend**  : `NodeJs`, `Express`. `Flask`
 - **Mobile** : `React-native`
 - **Databases** : `MongoDb`, `MySQL`
