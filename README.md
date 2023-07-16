@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Keshav S</h1>
 
 - 🚀 Interested in **Web-Dev**, **Mobile-Dev**, **Backend-Dev** and **DevOps** (Basically fullstack)
-- 🍙 Currently ricing my linux setup (losing track of time, but it's fun)
+- 🍙 Currently ricing my **nixos** experience (losing track of time, but it's fun)
 - 👨‍💻 All of my projects are available <a href="https://github.com/Keshav13142?tab=repositories"
     target="_blank">here</a>
 - 📫 Reach me @ **s.keshav13142@gmail.com**
 - ⚡ I like **Anime** 🤖 and **Video Games**
+- I use **vim** btw
 
 ## Things I've worked with :
 
