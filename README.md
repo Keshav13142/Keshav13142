@@ -6,7 +6,7 @@
     target="_blank">here</a>
 - 📫 Reach me @ **s.keshav13142@gmail.com**
 - ⚡ I like **Anime** 🤖 and **Video Games**
-- I use **vim** btw
+- 📝 I use **vim** btw
 
 ## Things I've worked with :
 
