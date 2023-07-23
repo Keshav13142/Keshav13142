@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keshav S</h1>
 
-<!--- - 🚀 Interested in **Web-Dev**, **Mobile-Dev**, **Backend-Dev** and **DevOps** (Basically fullstack) ---> 
+- 🚀 Interested in **Web-Dev**, **Mobile-Dev**, **Backend-Dev** and **DevOps** (Basically fullstack)
 - 🍙 Currently ricing my **nixos** experience (losing track of time, but it's fun)
 - 👨‍💻 All of my projects are available <a href="https://github.com/Keshav13142?tab=repositories"
     target="_blank">here</a>
